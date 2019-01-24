@@ -1,0 +1,2166 @@
+{
+  "betaTester" : {
+    "-KogGbYkaltIdethOOYV" : {
+      "email" : "klish3@gmail.com",
+      "name" : "Tawanda",
+      "surname" : "Kanyangarara"
+    },
+    "-KogNswZnbMjaRhWC5VG" : {
+      "email" : "tumelom@yahoo.com",
+      "name" : "Tumelo",
+      "surname" : "Matsinyane"
+    },
+    "-KraJSzx0-DgqiodbWwT" : {
+      "email" : "tawI@gmil.com",
+      "name" : "Tada",
+      "surname" : "adada"
+    }
+  },
+  "cities" : {
+    "Australia" : {
+      "Brisbane" : {
+        "Coke" : {
+          "high" : "4.00",
+          "low" : "2.50",
+          "norm" : "3.15"
+        },
+        "DomBeer" : {
+          "high" : "9.00",
+          "low" : "5.00",
+          "norm" : "7.00"
+        },
+        "ImpBeer" : {
+          "high" : "9.00",
+          "low" : "6.00",
+          "norm" : "8.00"
+        },
+        "McMeal" : {
+          "high" : "12.00",
+          "low" : "10.00",
+          "norm" : "10.97"
+        },
+        "Meal" : {
+          "high" : "100.00",
+          "low" : "17.00",
+          "norm" : "40.00"
+        },
+        "MovieTicket" : {
+          "high" : "18.00",
+          "low" : "12.00",
+          "norm" : "15.00"
+        },
+        "OneWayTicket" : {
+          "high" : "5.00",
+          "low" : "3.20",
+          "norm" : "4.00"
+        },
+        "PackSmokes" : {
+          "high" : "30.00",
+          "low" : "24.00",
+          "norm" : "25.00"
+        },
+        "WaterBottle" : {
+          "high" : "3.50",
+          "low" : "1.50",
+          "norm" : "2.53"
+        },
+        "WineBottle" : {
+          "high" : "20.00",
+          "low" : "12.00",
+          "norm" : "15.00"
+        }
+      },
+      "Canberra" : {
+        "Coke" : {
+          "high" : "3.65",
+          "low" : "2.50",
+          "norm" : "3.11"
+        },
+        "DomBeer" : {
+          "high" : "8.50",
+          "low" : "5.00",
+          "norm" : "6.75"
+        },
+        "ImpBeer" : {
+          "high" : "9.00",
+          "low" : "5.00",
+          "norm" : "7.00"
+        },
+        "McMeal" : {
+          "high" : "12.00",
+          "low" : "8.00",
+          "norm" : "10.00"
+        },
+        "Meal" : {
+          "high" : "90.00",
+          "low" : "20.00",
+          "norm" : "34.59"
+        },
+        "MovieTicket" : {
+          "high" : "23.00",
+          "low" : "15.00",
+          "norm" : "20.00"
+        },
+        "OneWayTicket" : {
+          "high" : "4.80",
+          "low" : "3.00",
+          "norm" : "4.25"
+        },
+        "PackSmokes" : {
+          "high" : "30.00",
+          "low" : "24.00",
+          "norm" : "27.25"
+        },
+        "WaterBottle" : {
+          "high" : "3.00",
+          "low" : "1.85",
+          "norm" : "2.52"
+        },
+        "WineBottle" : {
+          "high" : "18.19",
+          "low" : "12.00",
+          "norm" : "15.00"
+        }
+      },
+      "Perth" : {
+        "Coke" : {
+          "high" : "4.00",
+          "low" : "2.25",
+          "norm" : "3.17"
+        },
+        "DomBeer" : {
+          "high" : "9.00",
+          "low" : "5.00",
+          "norm" : "7.00"
+        },
+        "ImpBeer" : {
+          "high" : "9.50",
+          "low" : "6.00",
+          "norm" : "8.00"
+        },
+        "McMeal" : {
+          "high" : "12.00",
+          "low" : "8.00",
+          "norm" : "10.00"
+        },
+        "Meal" : {
+          "high" : "110.00",
+          "low" : "18.00",
+          "norm" : "40.00"
+        },
+        "MovieTicket" : {
+          "high" : "21.00",
+          "low" : "15.00",
+          "norm" : "18.00"
+        },
+        "OneWayTicket" : {
+          "high" : "5.00",
+          "low" : "3.00",
+          "norm" : "4.00"
+        },
+        "PackSmokes" : {
+          "high" : "30.00",
+          "low" : "22.00",
+          "norm" : "25.00"
+        },
+        "WaterBottle" : {
+          "high" : "3.50",
+          "low" : "2.00",
+          "norm" : "2.61"
+        },
+        "WineBottle" : {
+          "high" : "20.00",
+          "low" : "12.00",
+          "norm" : "15.00"
+        }
+      },
+      "Sydney" : {
+        "Coke" : {
+          "high" : "4.00",
+          "low" : "2.20",
+          "norm" : "3.17"
+        },
+        "DomBeer" : {
+          "high" : "9.00",
+          "low" : "6.00",
+          "norm" : "7.00"
+        },
+        "ImpBeer" : {
+          "high" : "9.90",
+          "low" : "7.00",
+          "norm" : "8.00"
+        },
+        "McMeal" : {
+          "high" : "12.00",
+          "low" : "9.00",
+          "norm" : "10.00"
+        },
+        "Meal" : {
+          "high" : "110.00",
+          "low" : "15.00",
+          "norm" : "40.00"
+        },
+        "MovieTicket" : {
+          "high" : "22.00",
+          "low" : "17.00",
+          "norm" : "20.00"
+        },
+        "OneWayTicket" : {
+          "high" : "5.00",
+          "low" : "3.38",
+          "norm" : "4.00"
+        },
+        "PackSmokes" : {
+          "high" : "30.00",
+          "low" : "25.00",
+          "norm" : "26.50"
+        },
+        "WaterBottle" : {
+          "high" : "3.50",
+          "low" : "2.00",
+          "norm" : "2.63"
+        },
+        "WineBottle" : {
+          "high" : "22.50",
+          "low" : "12.00",
+          "norm" : "16.50"
+        }
+      }
+    },
+    "Botswana" : {
+      "Gaborone" : {
+        "Coke" : {
+          "high" : "15.95",
+          "low" : "6.50",
+          "norm" : "9.49"
+        },
+        "DomBeer" : {
+          "high" : "30.00",
+          "low" : "14.00",
+          "norm" : "22.50"
+        },
+        "ImpBeer" : {
+          "high" : "25.00",
+          "low" : "12.00",
+          "norm" : "17.50"
+        },
+        "McMeal" : {
+          "high" : "70.00",
+          "low" : "50.00",
+          "norm" : "60.00"
+        },
+        "Meal" : {
+          "high" : "500.00",
+          "low" : "57.48",
+          "norm" : "140.00"
+        },
+        "MovieTicket" : {
+          "high" : "75.00",
+          "low" : "40.00",
+          "norm" : "50.00"
+        },
+        "OneWayTicket" : {
+          "high" : "3.50",
+          "low" : "3.50",
+          "norm" : "3.50"
+        },
+        "PackSmokes" : {
+          "high" : "44.50",
+          "low" : "34.00",
+          "norm" : "40.98"
+        },
+        "WaterBottle" : {
+          "high" : "10.00",
+          "low" : "4.50",
+          "norm" : "6.22"
+        },
+        "WineBottle" : {
+          "high" : "100.00",
+          "low" : "65.00",
+          "norm" : "80.80"
+        }
+      }
+    },
+    "Egypt" : {
+      "Alexandria" : {
+        "Coke" : {
+          "high" : "5.00",
+          "low" : "3.50",
+          "norm" : "4.00"
+        },
+        "DomBeer" : {
+          "high" : "25.00",
+          "low" : "20.00",
+          "norm" : "23.00"
+        },
+        "ImpBeer" : {
+          "high" : "45.00",
+          "low" : "25.00",
+          "norm" : "35.00"
+        },
+        "McMeal" : {
+          "high" : "60.00",
+          "low" : "45.00",
+          "norm" : "50.00"
+        },
+        "Meal" : {
+          "high" : "300.00",
+          "low" : "50.00",
+          "norm" : "140.00"
+        },
+        "MovieTicket" : {
+          "high" : "60.00",
+          "low" : "45.00",
+          "norm" : "50.00"
+        },
+        "OneWayTicket" : {
+          "high" : "3.50",
+          "low" : "2.50",
+          "norm" : "3.00"
+        },
+        "PackSmokes" : {
+          "high" : "33.00",
+          "low" : "29.00",
+          "norm" : "30.00"
+        },
+        "WaterBottle" : {
+          "high" : "3.00",
+          "low" : "2.00",
+          "norm" : "2.75"
+        },
+        "WineBottle" : {
+          "high" : "120.00",
+          "low" : "75.00",
+          "norm" : "97.50"
+        }
+      },
+      "Cairo" : {
+        "Coke" : {
+          "high" : "5.00",
+          "low" : "3.50",
+          "norm" : "4.59"
+        },
+        "DomBeer" : {
+          "high" : "35.00",
+          "low" : "16.00",
+          "norm" : "25.00"
+        },
+        "ImpBeer" : {
+          "high" : "45.00",
+          "low" : "24.00",
+          "norm" : "30.00"
+        },
+        "McMeal" : {
+          "high" : "70.00",
+          "low" : "50.00",
+          "norm" : "60.00"
+        },
+        "Meal" : {
+          "high" : "400.00",
+          "low" : "60.00",
+          "norm" : "150.00"
+        },
+        "MovieTicket" : {
+          "high" : "75.00",
+          "low" : "40.00",
+          "norm" : "50.00"
+        },
+        "OneWayTicket" : {
+          "high" : "3.50",
+          "low" : "1.50",
+          "norm" : "2.00"
+        },
+        "PackSmokes" : {
+          "high" : "35.00",
+          "low" : "28.00",
+          "norm" : "30.00"
+        },
+        "WaterBottle" : {
+          "high" : "4.00",
+          "low" : "2.00",
+          "norm" : "2.86"
+        },
+        "WineBottle" : {
+          "high" : "150.00",
+          "low" : "74.00",
+          "norm" : "100.00"
+        }
+      }
+    },
+    "France" : {
+      "Nice" : {
+        "Coke" : {
+          "high" : "3.50",
+          "low" : "2.00",
+          "norm" : "2.80"
+        },
+        "DomBeer" : {
+          "high" : "7.00",
+          "low" : "5.00",
+          "norm" : "6.00"
+        },
+        "ImpBeer" : {
+          "high" : "5.00",
+          "low" : "4.00",
+          "norm" : "4.50"
+        },
+        "McMeal" : {
+          "high" : "10.00",
+          "low" : "7.00",
+          "norm" : "8.00"
+        },
+        "Meal" : {
+          "high" : "67.44",
+          "low" : "15.00",
+          "norm" : "30.00"
+        },
+        "MovieTicket" : {
+          "high" : "12.00",
+          "low" : "8.50",
+          "norm" : "10.00"
+        },
+        "OneWayTicket" : {
+          "high" : "1.50",
+          "low" : "1.00",
+          "norm" : "1.50"
+        },
+        "PackSmokes" : {
+          "high" : "7.50",
+          "low" : "6.70",
+          "norm" : "7.00"
+        },
+        "WaterBottle" : {
+          "high" : "3.00",
+          "low" : "1.00",
+          "norm" : "2.29"
+        },
+        "WineBottle" : {
+          "high" : "7.00",
+          "low" : "4.00",
+          "norm" : "5.62"
+        }
+      },
+      "Paris" : {
+        "Coke" : {
+          "high" : "4.00",
+          "low" : "2.00",
+          "norm" : "2.69"
+        },
+        "DomBeer" : {
+          "high" : "7.00",
+          "low" : "5.00",
+          "norm" : "6.00"
+        },
+        "ImpBeer" : {
+          "high" : "7.00",
+          "low" : "4.00",
+          "norm" : "6.00"
+        },
+        "McMeal" : {
+          "high" : "9.00",
+          "low" : "7.50",
+          "norm" : "8.00"
+        },
+        "Meal" : {
+          "high" : "70.00",
+          "low" : "14.00",
+          "norm" : "25.00"
+        },
+        "MovieTicket" : {
+          "high" : "12.00",
+          "low" : "9.50",
+          "norm" : "11.00"
+        },
+        "OneWayTicket" : {
+          "high" : "2.00",
+          "low" : "1.80",
+          "norm" : "1.90"
+        },
+        "PackSmokes" : {
+          "high" : "8.00",
+          "low" : "6.50",
+          "norm" : "7.00"
+        },
+        "WaterBottle" : {
+          "high" : "3.00",
+          "low" : "1.00",
+          "norm" : "1.84"
+        },
+        "WineBottle" : {
+          "high" : "8.00",
+          "low" : "4.00",
+          "norm" : "6.00"
+        }
+      }
+    },
+    "Germany" : {
+      "Berlin" : {
+        "Coke" : {
+          "high" : "2.50",
+          "low" : "1.00",
+          "norm" : "1.71"
+        },
+        "DomBeer" : {
+          "high" : "8.00",
+          "low" : "2.60",
+          "norm" : "3.20"
+        },
+        "ImpBeer" : {
+          "high" : "4.00",
+          "low" : "2.20",
+          "norm" : "3.00"
+        },
+        "McMeal" : {
+          "high" : "8.00",
+          "low" : "6.30",
+          "norm" : "7.00"
+        },
+        "Meal" : {
+          "high" : "57.00",
+          "low" : "8.00",
+          "norm" : "20.00"
+        },
+        "MovieTicket" : {
+          "high" : "13.00",
+          "low" : "8.50",
+          "norm" : "10.00"
+        },
+        "OneWayTicket" : {
+          "high" : "3.50",
+          "low" : "1.50",
+          "norm" : "2.00"
+        },
+        "PackSmokes" : {
+          "high" : "3.00",
+          "low" : "2.50",
+          "norm" : "2.70"
+        },
+        "WaterBottle" : {
+          "high" : "2.00",
+          "low" : "0.70",
+          "norm" : "1.28"
+        },
+        "WineBottle" : {
+          "high" : "7.00",
+          "low" : "4.00",
+          "norm" : "5.00"
+        }
+      },
+      "Munster" : {
+        "Coke" : {
+          "high" : "2.50",
+          "low" : "2.00",
+          "norm" : "2.38"
+        },
+        "DomBeer" : {
+          "high" : "4.00",
+          "low" : "2.00",
+          "norm" : "3.25"
+        },
+        "ImpBeer" : {
+          "high" : "3.50",
+          "low" : "2.00",
+          "norm" : "2.70"
+        },
+        "McMeal" : {
+          "high" : "8.00",
+          "low" : "6.00",
+          "norm" : "7.49"
+        },
+        "Meal" : {
+          "high" : "45.00",
+          "low" : "10.00",
+          "norm" : "20.00"
+        },
+        "MovieTicket" : {
+          "high" : "12.00",
+          "low" : "9.50",
+          "norm" : "10.00"
+        },
+        "OneWayTicket" : {
+          "high" : "3.00",
+          "low" : "2.60",
+          "norm" : "2.90"
+        },
+        "PackSmokes" : {
+          "high" : "6.00",
+          "low" : "5.00",
+          "norm" : "5.60"
+        },
+        "WaterBottle" : {
+          "high" : "3.00",
+          "low" : "2.00",
+          "norm" : "2.75"
+        },
+        "WineBottle" : {
+          "high" : "2.00",
+          "low" : "1.50",
+          "norm" : "1.80"
+        }
+      }
+    },
+    "Greece" : {
+      "Athens" : {
+        "Coke" : {
+          "high" : "2.50",
+          "low" : "0.80",
+          "norm" : "1.43"
+        },
+        "DomBeer" : {
+          "high" : "5.00",
+          "low" : "3.00",
+          "norm" : "4.00"
+        },
+        "ImpBeer" : {
+          "high" : "5.00",
+          "low" : "3.00",
+          "norm" : "4.00"
+        },
+        "McMeal" : {
+          "high" : "8.00",
+          "low" : "5.00",
+          "norm" : "6.00"
+        },
+        "Meal" : {
+          "high" : "45.00",
+          "low" : "10.00",
+          "norm" : "12.50"
+        },
+        "MovieTicket" : {
+          "high" : "8.00",
+          "low" : "7.00",
+          "norm" : "7.50"
+        },
+        "OneWayTicket" : {
+          "high" : "2.00",
+          "low" : "1.00",
+          "norm" : "1.40"
+        },
+        "PackSmokes" : {
+          "high" : "4.50",
+          "low" : "4.00",
+          "norm" : "4.20"
+        },
+        "WaterBottle" : {
+          "high" : "1.00",
+          "low" : "0.40",
+          "norm" : "0.50"
+        },
+        "WineBottle" : {
+          "high" : "10.00",
+          "low" : "5.00",
+          "norm" : "6.00"
+        }
+      }
+    },
+    "India" : {
+      "Goa" : {
+        "Coke" : {
+          "high" : "35.00",
+          "low" : "20.00",
+          "norm" : "28.33"
+        },
+        "DomBeer" : {
+          "high" : "70.00",
+          "low" : "50.00",
+          "norm" : "60.00"
+        },
+        "ImpBeer" : {
+          "high" : "130.00",
+          "low" : "90.00",
+          "norm" : "100.00"
+        },
+        "McMeal" : {
+          "high" : "450.00",
+          "low" : "250.00",
+          "norm" : "325.00"
+        },
+        "Meal" : {
+          "high" : "1000.00",
+          "low" : "200.00",
+          "norm" : "400.00"
+        },
+        "MovieTicket" : {
+          "high" : "180.00",
+          "low" : "120.00",
+          "norm" : "150.00"
+        },
+        "OneWayTicket" : {
+          "high" : "30.00",
+          "low" : "12.00",
+          "norm" : "27.50"
+        },
+        "PackSmokes" : {
+          "high" : "250.00",
+          "low" : "130.00",
+          "norm" : "220.00"
+        },
+        "WaterBottle" : {
+          "high" : "20.00",
+          "low" : "10.00",
+          "norm" : "15.67"
+        },
+        "WineBottle" : {
+          "high" : "600.00",
+          "low" : "250.00",
+          "norm" : "500.00"
+        }
+      },
+      "Mangalore" : {
+        "Coke" : {
+          "high" : "30.00",
+          "low" : "15.00",
+          "norm" : "22.08"
+        },
+        "DomBeer" : {
+          "high" : "120.00",
+          "low" : "75.00",
+          "norm" : "92.50"
+        },
+        "ImpBeer" : {
+          "high" : "200.00",
+          "low" : "90.00",
+          "norm" : "150.00"
+        },
+        "McMeal" : {
+          "high" : "300.00",
+          "low" : "150.00",
+          "norm" : "200.00"
+        },
+        "Meal" : {
+          "high" : "350.00",
+          "low" : "60.00",
+          "norm" : "200.00"
+        },
+        "MovieTicket" : {
+          "high" : "180.00",
+          "low" : "120.00",
+          "norm" : "150.00"
+        },
+        "OneWayTicket" : {
+          "high" : "150.00",
+          "low" : "8.00",
+          "norm" : "10.00"
+        },
+        "PackSmokes" : {
+          "high" : "120.00",
+          "low" : "40.00",
+          "norm" : "50.00"
+        },
+        "WaterBottle" : {
+          "high" : "20.00",
+          "low" : "10.00",
+          "norm" : "11.73"
+        },
+        "WineBottle" : {
+          "high" : "500.00",
+          "low" : "200.00",
+          "norm" : "300.00"
+        }
+      },
+      "New Dehli" : {
+        "Coke" : {
+          "high" : "20.00",
+          "low" : "10.00",
+          "norm" : "30.34"
+        },
+        "DomBeer" : {
+          "high" : "160.00",
+          "low" : "80.00",
+          "norm" : "100.00"
+        },
+        "ImpBeer" : {
+          "high" : "300.00",
+          "low" : "120.00",
+          "norm" : "200.00"
+        },
+        "McMeal" : {
+          "high" : "300.00",
+          "low" : "155.00",
+          "norm" : "250.00"
+        },
+        "Meal" : {
+          "high" : "750.00",
+          "low" : "150.00",
+          "norm" : "500.00"
+        },
+        "MovieTicket" : {
+          "high" : "400.00",
+          "low" : "250.00",
+          "norm" : "300.00"
+        },
+        "OneWayTicket" : {
+          "high" : "400.00",
+          "low" : "250.00",
+          "norm" : "300.00"
+        },
+        "PackSmokes" : {
+          "high" : "260.00",
+          "low" : "200.00",
+          "norm" : "240.00"
+        },
+        "WaterBottle" : {
+          "high" : "20.00",
+          "low" : "10.00",
+          "norm" : "14.80"
+        },
+        "WineBottle" : {
+          "high" : "1200.00",
+          "low" : "500.00",
+          "norm" : "750.00"
+        }
+      }
+    },
+    "Indonesia" : {
+      "Bali" : {
+        "Coke" : {
+          "high" : "30000.00",
+          "low" : "4500.00",
+          "norm" : "8098.42"
+        },
+        "DomBeer" : {
+          "high" : "45000.00",
+          "low" : "20000.00",
+          "norm" : "30000.00"
+        },
+        "ImpBeer" : {
+          "high" : "65000.00",
+          "low" : "30000.00",
+          "norm" : "45000.00"
+        },
+        "McMeal" : {
+          "high" : "50000.00",
+          "low" : "35000.00",
+          "norm" : "45000.00"
+        },
+        "Meal" : {
+          "high" : "250000.00",
+          "low" : "75000.00",
+          "norm" : "35000.00"
+        },
+        "MovieTicket" : {
+          "high" : "60000.00",
+          "low" : "35000.00",
+          "norm" : "50000.00"
+        },
+        "OneWayTicket" : {
+          "high" : "5000.00",
+          "low" : "3500.00",
+          "norm" : "4000.00"
+        },
+        "PackSmokes" : {
+          "high" : "24500.00",
+          "low" : "17500.00",
+          "norm" : "20000.00"
+        },
+        "WaterBottle" : {
+          "high" : "14000.00",
+          "low" : "2400.00",
+          "norm" : "3775.52"
+        },
+        "WineBottle" : {
+          "high" : "400000.00",
+          "low" : "150005.00",
+          "norm" : "300000.00"
+        }
+      },
+      "Jakarta" : {
+        "Coke" : {
+          "high" : "20000.00",
+          "low" : "5000.00",
+          "norm" : "8249.53"
+        },
+        "DomBeer" : {
+          "high" : "50000.00",
+          "low" : "25000.00",
+          "norm" : "30000.00"
+        },
+        "ImpBeer" : {
+          "high" : "65000.00",
+          "low" : "35000.00",
+          "norm" : "50000.00"
+        },
+        "McMeal" : {
+          "high" : "55000.00",
+          "low" : "40000.00",
+          "norm" : "50000.00"
+        },
+        "Meal" : {
+          "high" : "332847.98",
+          "low" : "125000.00",
+          "norm" : "37500.00"
+        },
+        "MovieTicket" : {
+          "high" : "62311.15",
+          "low" : "45000.00",
+          "norm" : "50000.00"
+        },
+        "OneWayTicket" : {
+          "high" : "4000.00",
+          "low" : "3500.00",
+          "norm" : "3500.00"
+        },
+        "PackSmokes" : {
+          "high" : "25000.00",
+          "low" : "19000.00",
+          "norm" : "22000.00"
+        },
+        "WaterBottle" : {
+          "high" : "12000.00",
+          "low" : "2500.00",
+          "norm" : "4145.81"
+        },
+        "WineBottle" : {
+          "high" : "500000.00",
+          "low" : "200000.00",
+          "norm" : "400000.00"
+        }
+      }
+    },
+    "Italy" : {
+      "Naples" : {
+        "Coke" : {
+          "high" : "1.50",
+          "low" : "1.00",
+          "norm" : "1.16"
+        },
+        "DomBeer" : {
+          "high" : "4.50",
+          "low" : "2.00",
+          "norm" : "3.75"
+        },
+        "ImpBeer" : {
+          "high" : "4.00",
+          "low" : "2.50",
+          "norm" : "3.00"
+        },
+        "McMeal" : {
+          "high" : "8.00",
+          "low" : "6.00",
+          "norm" : "7.00"
+        },
+        "Meal" : {
+          "high" : "55.00",
+          "low" : "10.00",
+          "norm" : "20.00"
+        },
+        "MovieTicket" : {
+          "high" : "9.00",
+          "low" : "7.00",
+          "norm" : "8.00"
+        },
+        "OneWayTicket" : {
+          "high" : "1.20",
+          "low" : "0.80",
+          "norm" : "1.00"
+        },
+        "PackSmokes" : {
+          "high" : "6.00",
+          "low" : "5.00",
+          "norm" : "5.20"
+        },
+        "WaterBottle" : {
+          "high" : "1.00",
+          "low" : "0.50",
+          "norm" : "0.74"
+        },
+        "WineBottle" : {
+          "high" : "10.00",
+          "low" : "5.00",
+          "norm" : "7.00"
+        }
+      },
+      "Rome" : {
+        "Coke" : {
+          "high" : "1.00",
+          "low" : "1.20",
+          "norm" : "1.83"
+        },
+        "DomBeer" : {
+          "high" : "5.50",
+          "low" : "3.00",
+          "norm" : "5.00"
+        },
+        "ImpBeer" : {
+          "high" : "5.00",
+          "low" : "3.00",
+          "norm" : "4.00"
+        },
+        "McMeal" : {
+          "high" : "9.00",
+          "low" : "7.00",
+          "norm" : "8.00"
+        },
+        "Meal" : {
+          "high" : "20.00",
+          "low" : "15.00",
+          "norm" : "25.00"
+        },
+        "MovieTicket" : {
+          "high" : "10.00",
+          "low" : "7.00",
+          "norm" : "8.00"
+        },
+        "OneWayTicket" : {
+          "high" : "2.00",
+          "low" : "1.00",
+          "norm" : "1.50"
+        },
+        "PackSmokes" : {
+          "high" : "6.00",
+          "low" : "5.00",
+          "norm" : "5.40"
+        },
+        "WaterBottle" : {
+          "high" : "1.00",
+          "low" : "0.40",
+          "norm" : "0.63"
+        },
+        "WineBottle" : {
+          "high" : "8.00",
+          "low" : "4.00",
+          "norm" : "6.00"
+        }
+      }
+    },
+    "Japan" : {
+      "Osaka" : {
+        "Coke" : {
+          "high" : "200.00",
+          "low" : "100.00",
+          "norm" : "153.75"
+        },
+        "DomBeer" : {
+          "high" : "500.00",
+          "low" : "300.00",
+          "norm" : "400.00"
+        },
+        "ImpBeer" : {
+          "high" : "600.00",
+          "low" : "500.00",
+          "norm" : "500.00"
+        },
+        "McMeal" : {
+          "high" : "700.00",
+          "low" : "573.42",
+          "norm" : "650.00"
+        },
+        "Meal" : {
+          "high" : "5000.00",
+          "low" : "1500.00",
+          "norm" : "800.00"
+        },
+        "MovieTicket" : {
+          "high" : "1800.00",
+          "low" : "1600.00",
+          "norm" : "1800.00"
+        },
+        "OneWayTicket" : {
+          "high" : "280.00",
+          "low" : "180.00",
+          "norm" : "200.00"
+        },
+        "PackSmokes" : {
+          "high" : "500.00",
+          "low" : "470.00",
+          "norm" : "500.00"
+        },
+        "WaterBottle" : {
+          "high" : "120.01",
+          "low" : "70.00",
+          "norm" : "99.90"
+        },
+        "WineBottle" : {
+          "high" : "2000.00",
+          "low" : "1500.00",
+          "norm" : "1750.00"
+        }
+      },
+      "Tokyo" : {
+        "Coke" : {
+          "high" : "200.00",
+          "low" : "100.00",
+          "norm" : "133.70"
+        },
+        "DomBeer" : {
+          "high" : "600.00",
+          "low" : "300.00",
+          "norm" : "400.00"
+        },
+        "ImpBeer" : {
+          "high" : "700.00",
+          "low" : "350.00",
+          "norm" : "475.00"
+        },
+        "McMeal" : {
+          "high" : "700.00",
+          "low" : "600.00",
+          "norm" : "680.00"
+        },
+        "Meal" : {
+          "high" : "6600.00",
+          "low" : "2600.00",
+          "norm" : "1000.00"
+        },
+        "MovieTicket" : {
+          "high" : "2200.00",
+          "low" : "1600.00",
+          "norm" : "1800.00"
+        },
+        "OneWayTicket" : {
+          "high" : "460.00",
+          "low" : "400.00",
+          "norm" : "449.50"
+        },
+        "PackSmokes" : {
+          "high" : "150.00",
+          "low" : "100.00",
+          "norm" : "109.85"
+        },
+        "WaterBottle" : {
+          "high" : "150.00",
+          "low" : "100.00",
+          "norm" : "109.85"
+        },
+        "WineBottle" : {
+          "high" : "3000.00",
+          "low" : "1200.00",
+          "norm" : "2000.00"
+        }
+      }
+    },
+    "Malaysia" : {
+      "Kuala Lumpur" : {
+        "Coke" : {
+          "high" : "3.00",
+          "low" : "1.87",
+          "norm" : "2.49"
+        },
+        "DomBeer" : {
+          "high" : "20.00",
+          "low" : "9.00",
+          "norm" : "15.00"
+        },
+        "ImpBeer" : {
+          "high" : "25.00",
+          "low" : "12.00",
+          "norm" : "18.00"
+        },
+        "McMeal" : {
+          "high" : "15.90",
+          "low" : "10.00",
+          "norm" : "13.00"
+        },
+        "Meal" : {
+          "high" : "100.00",
+          "low" : "37.50",
+          "norm" : "15.00"
+        },
+        "MovieTicket" : {
+          "high" : "18.00",
+          "low" : "14.00",
+          "norm" : "15.00"
+        },
+        "OneWayTicket" : {
+          "high" : "3.60",
+          "low" : "2.00",
+          "norm" : "3.00"
+        },
+        "PackSmokes" : {
+          "high" : "18.00",
+          "low" : "16.50",
+          "norm" : "17.00"
+        },
+        "WaterBottle" : {
+          "high" : "2.00",
+          "low" : "1.00",
+          "norm" : "1.47"
+        },
+        "WineBottle" : {
+          "high" : "80.00",
+          "low" : "45.00",
+          "norm" : "60.00"
+        }
+      },
+      "Malacca" : {
+        "Coke" : {
+          "high" : "3.00",
+          "low" : "1.00",
+          "norm" : "2.34"
+        },
+        "DomBeer" : {
+          "high" : "18.00",
+          "low" : "8.00",
+          "norm" : "11.50"
+        },
+        "ImpBeer" : {
+          "high" : "20.00",
+          "low" : "6.90",
+          "norm" : "15.50"
+        },
+        "McMeal" : {
+          "high" : "15.00",
+          "low" : "8.70",
+          "norm" : "12.00"
+        },
+        "Meal" : {
+          "high" : "80.00",
+          "low" : "25.00",
+          "norm" : "8.75"
+        },
+        "MovieTicket" : {
+          "high" : "18.00",
+          "low" : "11.50",
+          "norm" : "15.00"
+        },
+        "OneWayTicket" : {
+          "high" : "2.00",
+          "low" : "1.00",
+          "norm" : "2.00"
+        },
+        "PackSmokes" : {
+          "high" : "18.00",
+          "low" : "10.00",
+          "norm" : "17.00"
+        },
+        "WaterBottle" : {
+          "high" : "2.00",
+          "low" : "0.60",
+          "norm" : "1.18"
+        },
+        "WineBottle" : {
+          "high" : "80.00",
+          "low" : "20.00",
+          "norm" : "60.00"
+        }
+      }
+    },
+    "Mauritius" : {
+      "Grand Bay" : {
+        "Coke" : {
+          "high" : "25.00",
+          "low" : "15.00",
+          "norm" : "29.29"
+        },
+        "DomBeer" : {
+          "high" : "120.00",
+          "low" : "30.00",
+          "norm" : "67.50"
+        },
+        "ImpBeer" : {
+          "high" : "120.00",
+          "low" : "45.00",
+          "norm" : "90.00"
+        },
+        "McMeal" : {
+          "high" : "700.00",
+          "low" : "200.00",
+          "norm" : "500.00"
+        },
+        "Meal" : {
+          "high" : "700.00",
+          "low" : "200.00",
+          "norm" : "500.00"
+        },
+        "MovieTicket" : {
+          "high" : "300.00",
+          "low" : "200.00",
+          "norm" : "250.00"
+        },
+        "OneWayTicket" : {
+          "high" : "38.00",
+          "low" : "37.00",
+          "norm" : "37.50"
+        },
+        "PackSmokes" : {
+          "high" : "200.00",
+          "low" : "80.00",
+          "norm" : "165.00"
+        },
+        "WaterBottle" : {
+          "high" : "25.00",
+          "low" : "8.00",
+          "norm" : "17.33"
+        },
+        "WineBottle" : {
+          "high" : "400.00",
+          "low" : "800.00",
+          "norm" : "150.00"
+        }
+      },
+      "Port Louis" : {
+        "Coke" : {
+          "high" : "40.00",
+          "low" : "18.00",
+          "norm" : "29.29"
+        },
+        "DomBeer" : {
+          "high" : "120.00",
+          "low" : "50.00",
+          "norm" : "100.00"
+        },
+        "ImpBeer" : {
+          "high" : "200.00",
+          "low" : "75.00",
+          "norm" : "120.00"
+        },
+        "McMeal" : {
+          "high" : "250.00",
+          "low" : "150.00",
+          "norm" : "190.00"
+        },
+        "Meal" : {
+          "high" : "2000.00",
+          "low" : "200.00",
+          "norm" : "475.00"
+        },
+        "MovieTicket" : {
+          "high" : "300.00",
+          "low" : "200.00",
+          "norm" : "232.50"
+        },
+        "OneWayTicket" : {
+          "high" : "36.00",
+          "low" : "30.00",
+          "norm" : "32.00"
+        },
+        "PackSmokes" : {
+          "high" : "206.00",
+          "low" : "155.00",
+          "norm" : "165.00"
+        },
+        "WaterBottle" : {
+          "high" : "30.00",
+          "low" : "15.00",
+          "norm" : "21.57"
+        },
+        "WineBottle" : {
+          "high" : "950.00",
+          "low" : "300.00",
+          "norm" : "400.00"
+        }
+      }
+    },
+    "Singapore" : {
+      "Singapore" : {
+        "Coke" : {
+          "high" : "2.50",
+          "low" : "1.00",
+          "norm" : "1.67"
+        },
+        "DomBeer" : {
+          "high" : "9.00",
+          "low" : "6.00",
+          "norm" : "10.00"
+        },
+        "ImpBeer" : {
+          "high" : "12.00",
+          "low" : "6.00",
+          "norm" : "10.00"
+        },
+        "McMeal" : {
+          "high" : "9.00",
+          "low" : "6.00",
+          "norm" : "7.50"
+        },
+        "Meal" : {
+          "high" : "80.00",
+          "low" : "30.00",
+          "norm" : "12.00"
+        },
+        "MovieTicket" : {
+          "high" : "14.00",
+          "low" : "10.00",
+          "norm" : "12.00"
+        },
+        "OneWayTicket" : {
+          "high" : "2.00",
+          "low" : "1.00",
+          "norm" : "1.80"
+        },
+        "PackSmokes" : {
+          "high" : "13.10",
+          "low" : "12.00",
+          "norm" : "13.00"
+        },
+        "WaterBottle" : {
+          "high" : "2.00",
+          "low" : "0.80",
+          "norm" : "1.27"
+        },
+        "WineBottle" : {
+          "high" : "45.00",
+          "low" : "25.00",
+          "norm" : "30.00"
+        }
+      }
+    },
+    "South Africa" : {
+      "Cape Town" : {
+        "Coke" : {
+          "high" : "15.00",
+          "low" : "8.00",
+          "norm" : "11.08"
+        },
+        "DomBeer" : {
+          "high" : "30.00",
+          "low" : "20.00",
+          "norm" : "25.00"
+        },
+        "ImpBeer" : {
+          "high" : "40.00",
+          "low" : "25.00",
+          "norm" : "30.00"
+        },
+        "McMeal" : {
+          "high" : "65.00",
+          "low" : "50.00",
+          "norm" : "55.00"
+        },
+        "Meal" : {
+          "high" : "600.00",
+          "low" : "100.00",
+          "norm" : "225.00"
+        },
+        "MovieTicket" : {
+          "high" : "85.00",
+          "low" : "65.00",
+          "norm" : "75.00"
+        },
+        "OneWayTicket" : {
+          "high" : "15.00",
+          "low" : "9.00",
+          "norm" : "10.25"
+        },
+        "PackSmokes" : {
+          "high" : "40.00",
+          "low" : "35.00",
+          "norm" : "39.00"
+        },
+        "WaterBottle" : {
+          "high" : "15.00",
+          "low" : "6.00",
+          "norm" : "9.49"
+        },
+        "WineBottle" : {
+          "high" : "80.00",
+          "low" : "50.00",
+          "norm" : "60.00"
+        }
+      },
+      "Johannesburg" : {
+        "Coke" : {
+          "high" : "18.00",
+          "low" : "8.00",
+          "norm" : "12.08"
+        },
+        "DomBeer" : {
+          "high" : "30.00",
+          "low" : "18.00",
+          "norm" : "25.00"
+        },
+        "ImpBeer" : {
+          "high" : "35.00",
+          "low" : "24.00",
+          "norm" : "30.00"
+        },
+        "McMeal" : {
+          "high" : "65.00",
+          "low" : "45.00",
+          "norm" : "52.00"
+        },
+        "Meal" : {
+          "high" : "600.00",
+          "low" : "250.00",
+          "norm" : "100.00"
+        },
+        "MovieTicket" : {
+          "high" : "95.00",
+          "low" : "60.00",
+          "norm" : "78.00"
+        },
+        "OneWayTicket" : {
+          "high" : "24.00",
+          "low" : "10.00",
+          "norm" : "15.00"
+        },
+        "PackSmokes" : {
+          "high" : "41.00",
+          "low" : "35.00",
+          "norm" : "40.00"
+        },
+        "WaterBottle" : {
+          "high" : "15.00",
+          "low" : "6.00",
+          "norm" : "9.39"
+        },
+        "WineBottle" : {
+          "high" : "80.00",
+          "low" : "45.00",
+          "norm" : "52.50"
+        }
+      }
+    },
+    "Spain" : {
+      "Barcelona" : {
+        "Coke" : {
+          "high" : "2.50",
+          "low" : "1.30",
+          "norm" : "1.79"
+        },
+        "DomBeer" : {
+          "high" : "3.50",
+          "low" : "2.00",
+          "norm" : "2.50"
+        },
+        "ImpBeer" : {
+          "high" : "4.00",
+          "low" : "2.00",
+          "norm" : "3.00"
+        },
+        "McMeal" : {
+          "high" : "8.00",
+          "low" : "6.50",
+          "norm" : "7.00"
+        },
+        "Meal" : {
+          "high" : "50.00",
+          "low" : "11.00",
+          "norm" : "20.00"
+        },
+        "MovieTicket" : {
+          "high" : "9.00",
+          "low" : "7.90",
+          "norm" : "8.50"
+        },
+        "OneWayTicket" : {
+          "high" : "2.15",
+          "low" : "2.00",
+          "norm" : "2.15"
+        },
+        "PackSmokes" : {
+          "high" : "5.30",
+          "low" : "4.65",
+          "norm" : "5.00"
+        },
+        "WaterBottle" : {
+          "high" : "1.50",
+          "low" : "0.50",
+          "norm" : "1.14"
+        },
+        "WineBottle" : {
+          "high" : "7.00",
+          "low" : "4.00",
+          "norm" : "5.00"
+        }
+      },
+      "Madrid" : {
+        "Coke" : {
+          "high" : "2.50",
+          "low" : "1.00",
+          "norm" : "1.85"
+        },
+        "DomBeer" : {
+          "high" : "3.50",
+          "low" : "2.00",
+          "norm" : "3.00"
+        },
+        "ImpBeer" : {
+          "high" : "4.00",
+          "low" : "2.00",
+          "norm" : "3.00"
+        },
+        "McMeal" : {
+          "high" : "8.00",
+          "low" : "6.50",
+          "norm" : "7.00"
+        },
+        "Meal" : {
+          "high" : "50.00",
+          "low" : "10.00",
+          "norm" : "27.50"
+        },
+        "MovieTicket" : {
+          "high" : "10.00",
+          "low" : "8.00",
+          "norm" : "9.00"
+        },
+        "OneWayTicket" : {
+          "high" : "1.70",
+          "low" : "1.50",
+          "norm" : "1.50"
+        },
+        "PackSmokes" : {
+          "high" : "5.30",
+          "low" : "4.85",
+          "norm" : "5.00"
+        },
+        "WaterBottle" : {
+          "high" : "1.80",
+          "low" : "0.60",
+          "norm" : "1.14"
+        },
+        "WineBottle" : {
+          "high" : "8.00",
+          "low" : "4.00",
+          "norm" : "6.00"
+        }
+      }
+    },
+    "Thailand" : {
+      "Bangkok" : {
+        "Coke" : {
+          "high" : "30.00",
+          "low" : "14.00",
+          "norm" : "17.59"
+        },
+        "DomBeer" : {
+          "high" : "100.00",
+          "low" : "50.00",
+          "norm" : "66.82"
+        },
+        "ImpBeer" : {
+          "high" : "180.00",
+          "low" : "99.96",
+          "norm" : "120.00"
+        },
+        "McMeal" : {
+          "high" : "200.90",
+          "low" : "139.00",
+          "norm" : "160.00"
+        },
+        "Meal" : {
+          "high" : "1000.00",
+          "low" : "350.00",
+          "norm" : "60.00"
+        },
+        "MovieTicket" : {
+          "high" : "250.00",
+          "low" : "160.00",
+          "norm" : "200.00"
+        },
+        "OneWayTicket" : {
+          "high" : "45.00",
+          "low" : "25.00",
+          "norm" : "36.00"
+        },
+        "PackSmokes" : {
+          "high" : "125.00",
+          "low" : "100.00",
+          "norm" : "120.00"
+        },
+        "WaterBottle" : {
+          "high" : "15.00",
+          "low" : "7.00",
+          "norm" : "8.84"
+        },
+        "WineBottle" : {
+          "high" : "833.00",
+          "low" : "500.00",
+          "norm" : "700.00"
+        }
+      },
+      "Phuket" : {
+        "Coke" : {
+          "high" : "50.00",
+          "low" : "15.00",
+          "norm" : "22.45"
+        },
+        "DomBeer" : {
+          "high" : "85.00",
+          "low" : "53.00",
+          "norm" : "78.70"
+        },
+        "ImpBeer" : {
+          "high" : "120.00",
+          "low" : "80.00",
+          "norm" : "100.00"
+        },
+        "McMeal" : {
+          "high" : "340.90",
+          "low" : "180.00",
+          "norm" : "225.00"
+        },
+        "Meal" : {
+          "high" : "1000.00",
+          "low" : "350.00",
+          "norm" : "60.00"
+        },
+        "MovieTicket" : {
+          "high" : "200.00",
+          "low" : "150.00",
+          "norm" : "180.00"
+        },
+        "OneWayTicket" : {
+          "high" : "50.00",
+          "low" : "25.00",
+          "norm" : "30.00"
+        },
+        "PackSmokes" : {
+          "high" : "120.00",
+          "low" : "87.00",
+          "norm" : "97.50"
+        },
+        "WaterBottle" : {
+          "high" : "20.00",
+          "low" : "7.00",
+          "norm" : "13.65"
+        },
+        "WineBottle" : {
+          "high" : "800.00",
+          "low" : "350.00",
+          "norm" : "550.00"
+        }
+      }
+    },
+    "United Kingdom" : {
+      "Bristol" : {
+        "Coke" : {
+          "high" : "2.00",
+          "low" : "0.85",
+          "norm" : "1.31"
+        },
+        "DomBeer" : {
+          "high" : "4.00",
+          "low" : "3.20",
+          "norm" : "3.80"
+        },
+        "ImpBeer" : {
+          "high" : "4.00",
+          "low" : "3.20",
+          "norm" : "3.80"
+        },
+        "McMeal" : {
+          "high" : "7.00",
+          "low" : "5.00",
+          "norm" : "6.00"
+        },
+        "Meal" : {
+          "high" : "55.00",
+          "low" : "12.00",
+          "norm" : "25.00"
+        },
+        "MovieTicket" : {
+          "high" : "10.50",
+          "low" : "7.50",
+          "norm" : "9.00"
+        },
+        "OneWayTicket" : {
+          "high" : "2.50",
+          "low" : "1.50",
+          "norm" : "2.00"
+        },
+        "PackSmokes" : {
+          "high" : "9.35",
+          "low" : "8.00",
+          "norm" : "8.20"
+        },
+        "WaterBottle" : {
+          "high" : "1.00",
+          "low" : "0.75",
+          "norm" : "1.09"
+        },
+        "WineBottle" : {
+          "high" : "8.00",
+          "low" : "6.00",
+          "norm" : "7.80"
+        }
+      },
+      "London" : {
+        "Coke" : {
+          "high" : "2.00",
+          "low" : "0.75",
+          "norm" : "1.17"
+        },
+        "DomBeer" : {
+          "high" : "4.50",
+          "low" : "2.80",
+          "norm" : "3.50"
+        },
+        "ImpBeer" : {
+          "high" : "4.50",
+          "low" : "3.00",
+          "norm" : "3.70"
+        },
+        "McMeal" : {
+          "high" : "6.00",
+          "low" : "4.50",
+          "norm" : "5.00"
+        },
+        "Meal" : {
+          "high" : "60.00",
+          "low" : "12.00",
+          "norm" : "25.00"
+        },
+        "MovieTicket" : {
+          "high" : "12.00",
+          "low" : "8.00",
+          "norm" : "10.00"
+        },
+        "OneWayTicket" : {
+          "high" : "3.00",
+          "low" : "1.60",
+          "norm" : "2.40"
+        },
+        "PackSmokes" : {
+          "high" : "10.00",
+          "low" : "7.50",
+          "norm" : "9.00"
+        },
+        "WaterBottle" : {
+          "high" : "1.50",
+          "low" : "0.50",
+          "norm" : "0.91"
+        },
+        "WineBottle" : {
+          "high" : "8.50",
+          "low" : "5.50",
+          "norm" : "7.00"
+        }
+      }
+    },
+    "United States of America" : {
+      "Philadelphia" : {
+        "Coke" : {
+          "high" : "2.00",
+          "low" : "1.00",
+          "norm" : "1.84"
+        },
+        "DomBeer" : {
+          "high" : "6.00",
+          "low" : "3.00",
+          "norm" : "4.00"
+        },
+        "ImpBeer" : {
+          "high" : "8.00",
+          "low" : "5.00",
+          "norm" : "6.00"
+        },
+        "McMeal" : {
+          "high" : "7.00",
+          "low" : "5.00",
+          "norm" : "6.00"
+        },
+        "Meal" : {
+          "high" : "75.00",
+          "low" : "15.00",
+          "norm" : "30.00"
+        },
+        "MovieTicket" : {
+          "high" : "13.00",
+          "low" : "10.00",
+          "norm" : "12.00"
+        },
+        "OneWayTicket" : {
+          "high" : "3.00",
+          "low" : "2.25",
+          "norm" : "2.25"
+        },
+        "PackSmokes" : {
+          "high" : "10.25",
+          "low" : "7.0",
+          "norm" : "9.00"
+        },
+        "WaterBottle" : {
+          "high" : "2.00",
+          "low" : "1.00",
+          "norm" : "1.51"
+        },
+        "WineBottle" : {
+          "high" : "20.00",
+          "low" : "10.99",
+          "norm" : "15.50"
+        }
+      },
+      "Washington" : {
+        "Coke" : {
+          "high" : "2.50",
+          "low" : "1.50",
+          "norm" : "1.89"
+        },
+        "DomBeer" : {
+          "high" : "8.00",
+          "low" : "5.50",
+          "norm" : "6.00"
+        },
+        "ImpBeer" : {
+          "high" : "9.00",
+          "low" : "6.00",
+          "norm" : "8.00"
+        },
+        "McMeal" : {
+          "high" : "8.50",
+          "low" : "6.00",
+          "norm" : "7.00"
+        },
+        "Meal" : {
+          "high" : "85.00",
+          "low" : "15.00",
+          "norm" : "35.00"
+        },
+        "MovieTicket" : {
+          "high" : "15.00",
+          "low" : "12.00",
+          "norm" : "13.00"
+        },
+        "OneWayTicket" : {
+          "high" : "4.00",
+          "low" : "2.00",
+          "norm" : "2.50"
+        },
+        "PackSmokes" : {
+          "high" : "10.00",
+          "low" : "7.00",
+          "norm" : "9.00"
+        },
+        "WaterBottle" : {
+          "high" : "2.00",
+          "low" : "1.00",
+          "norm" : "1.59"
+        },
+        "WineBottle" : {
+          "high" : "24.00",
+          "low" : "15.00",
+          "norm" : "16.50"
+        }
+      }
+    }
+  },
+  "country_data" : {
+    "Australia" : {
+      "Capital" : "Canberra",
+      "Continent" : "OC",
+      "ISO3166_1_Alpha_2" : "AU",
+      "ISO4217_currency_alphabetic_code" : "AUD",
+      "ISO4217_currency_country_name" : "AUSTRALIA",
+      "ISO4217_currency_name" : "Australian Dollar",
+      "ISO4217_currency_symbol" : "A$",
+      "Languages" : "en-AU",
+      "cities" : [ "Sydney", "Brisbane", "Canberra", "Perth" ],
+      "name" : "Australia",
+      "official_name_en" : "Australia"
+    },
+    "Botswana" : {
+      "Capital" : "Gaborone",
+      "Continent" : "AF",
+      "ISO3166_1_Alpha_2" : "BW",
+      "ISO4217_currency_alphabetic_code" : "BWP",
+      "ISO4217_currency_country_name" : "BOTSWANA",
+      "ISO4217_currency_name" : "Pula",
+      "ISO4217_currency_symbol" : "P",
+      "Languages" : "en-BW,tn-BW",
+      "cities" : [ "Gaborone" ],
+      "name" : "Botswana",
+      "official_name_en" : "Botswana"
+    },
+    "Egypt" : {
+      "Capital" : "Cairo",
+      "Continent" : "AF",
+      "ISO3166_1_Alpha_2" : "EG",
+      "ISO4217_currency_alphabetic_code" : "EGP",
+      "ISO4217_currency_country_name" : "EGYPT",
+      "ISO4217_currency_name" : "Egyptian Pound",
+      "ISO4217_currency_symbol" : "E£",
+      "Languages" : "ar_EG,en,fr",
+      "cities" : [ "Cairo", "Alexandria" ],
+      "name" : "Egypt",
+      "official_name_en" : "Egypt"
+    },
+    "France" : {
+      "Capital" : "Paris",
+      "Continent" : "EU",
+      "ISO3166_1_Alpha_2" : "FR",
+      "ISO4217_currency_alphabetic_code" : "EUR",
+      "ISO4217_currency_country_name" : "FRANCE",
+      "ISO4217_currency_name" : "Euro",
+      "ISO4217_currency_symbol" : "€",
+      "Languages" : "it-IT,de-IT,fr-IT,sc,ca,co,sl",
+      "cities" : [ "Paris", "Nice" ],
+      "name" : "France",
+      "official_name_en" : "France"
+    },
+    "Germany" : {
+      "Capital" : "Berlin",
+      "Continent" : "EU",
+      "ISO3166_1_Alpha_2" : "DE",
+      "ISO4217_currency_alphabetic_code" : "EUR",
+      "ISO4217_currency_country_name" : "GERMANY",
+      "ISO4217_currency_name" : "Euro",
+      "ISO4217_currency_symbol" : "€",
+      "Languages" : "de",
+      "cities" : [ "Berlin", "Munster" ],
+      "name" : "Germany",
+      "official_name_en" : "Germany"
+    },
+    "Greece" : {
+      "Capital" : "Athens",
+      "Continent" : "EU",
+      "ISO3166_1_Alpha_2" : "GR",
+      "ISO4217_currency_alphabetic_code" : "EUR",
+      "ISO4217_currency_country_name" : "GREECE",
+      "ISO4217_currency_name" : "Euro",
+      "ISO4217_currency_symbol" : "€",
+      "Languages" : "ar_EG,en,fr",
+      "cities" : [ "Athens" ],
+      "name" : "Greece",
+      "official_name_en" : "Greece"
+    },
+    "India" : {
+      "Capital" : "New Delhi",
+      "Continent" : "AS",
+      "ISO3166_1_Alpha_2" : "IN",
+      "ISO4217_currency_alphabetic_code" : "INR",
+      "ISO4217_currency_country_name" : "INDIA",
+      "ISO4217_currency_name" : "Indian Rupee",
+      "ISO4217_currency_symbol" : "₹",
+      "Languages" : "en_IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
+      "cities" : [ "New Dehli", "Mangalore", "Goa" ],
+      "name" : "India",
+      "official_name_en" : "India"
+    },
+    "Indonesia" : {
+      "Capital" : "Jakarta",
+      "Continent" : "AS",
+      "ISO3166_1_Alpha_2" : "ID",
+      "ISO4217_currency_alphabetic_code" : "IDR",
+      "ISO4217_currency_country_name" : "INDONESIA",
+      "ISO4217_currency_name" : "Rupiah",
+      "ISO4217_currency_symbol" : "Rp",
+      "Languages" : "id,en,nl,jv",
+      "cities" : [ "Jakarta", "Bali" ],
+      "name" : "Indonesia",
+      "official_name_en" : "Indonesia"
+    },
+    "Italy" : {
+      "Capital" : "Rome",
+      "Continent" : "EU",
+      "ISO3166_1_Alpha_2" : "IT",
+      "ISO4217_currency_alphabetic_code" : "EUR",
+      "ISO4217_currency_country_name" : "ITALY",
+      "ISO4217_currency_name" : "Euro",
+      "ISO4217_currency_symbol" : "€",
+      "Languages" : "it-IT,de-IT,fr-IT,sc,ca,co,sl",
+      "cities" : [ "Rome", "Naples" ],
+      "name" : "Italy",
+      "official_name_en" : "Italy"
+    },
+    "Japan" : {
+      "Capital" : "Tokyo",
+      "Continent" : "AS",
+      "ISO3166_1_Alpha_2" : "JP",
+      "ISO4217_currency_alphabetic_code" : "JPY",
+      "ISO4217_currency_country_name" : "JAPAN",
+      "ISO4217_currency_name" : "Yen",
+      "ISO4217_currency_symbol" : "¥",
+      "Languages" : "ja",
+      "cities" : [ "Tokyo", "Osaka" ],
+      "name" : "Japan",
+      "official_name_en" : "Japan"
+    },
+    "Malaysia" : {
+      "Capital" : "Kuala Lumpur",
+      "Continent" : "AS",
+      "ISO3166_1_Alpha_2" : "MY",
+      "ISO4217_currency_alphabetic_code" : "MYR",
+      "ISO4217_currency_country_name" : "MALAYSIA",
+      "ISO4217_currency_name" : "Malaysian Ringgit",
+      "ISO4217_currency_symbol" : "RM",
+      "Languages" : "ms-MY,en,zh,ta,te,ml,pa,th",
+      "cities" : [ "Kuala Lumpur", "Malacca" ],
+      "name" : "Malaysia",
+      "official_name_en" : "Malaysia"
+    },
+    "Mauritius" : {
+      "Capital" : "Port Louis",
+      "Continent" : "AF",
+      "ISO3166_1_Alpha_2" : "MU",
+      "ISO4217_currency_alphabetic_code" : "MUR",
+      "ISO4217_currency_country_name" : "MAURITIUS",
+      "ISO4217_currency_name" : "Mauritius Rupee",
+      "ISO4217_currency_symbol" : "Ɍs",
+      "Languages" : "en_MU,bho,fr",
+      "cities" : [ "Port Louis", "Grand Bay" ],
+      "name" : "Mauritius",
+      "official_name_en" : "Mauritius"
+    },
+    "Singapore" : {
+      "Capital" : "Singapore",
+      "Continent" : "AS",
+      "ISO3166_1_Alpha_2" : "SG",
+      "ISO4217_currency_alphabetic_code" : "SGD",
+      "ISO4217_currency_country_name" : "SINGAPORE",
+      "ISO4217_currency_name" : "Singapore Dollar",
+      "ISO4217_currency_symbol" : "‎S$",
+      "Languages" : "cmn,en-SG,ms-SG,ta-SG,zh-SG",
+      "cities" : [ "Singapore" ],
+      "name" : "Singapore",
+      "official_name_en" : "Singapore"
+    },
+    "South Africa" : {
+      "Capital" : "Pretoria",
+      "Continent" : "AF",
+      "ISO3166_1_Alpha_2" : "ZA",
+      "ISO4217_currency_alphabetic_code" : "ZAR",
+      "ISO4217_currency_country_name" : "SOUTH AFRICA",
+      "ISO4217_currency_name" : "Rand",
+      "ISO4217_currency_symbol" : "R",
+      "Languages" : "zu,xh,af,nso,en_ZA,tn,st,ts,ss,ve,nr",
+      "TLD" : ".za",
+      "cities" : [ "Cape Town", "Johannesburg" ],
+      "name" : "South Africa",
+      "official_name_en" : "South Africa"
+    },
+    "Spain" : {
+      "Capital" : "Madrid",
+      "Continent" : "EU",
+      "ISO3166_1_Alpha_2" : "ES",
+      "ISO4217_currency_alphabetic_code" : "EUR",
+      "ISO4217_currency_country_name" : "SPAIN",
+      "ISO4217_currency_name" : "Euro",
+      "ISO4217_currency_symbol" : "€",
+      "Languages" : "es_ES,ca,gl,eu,oc",
+      "cities" : [ "Madrid", "Barcelona" ],
+      "name" : "Spain",
+      "official_name_en" : "Spain"
+    },
+    "Thailand" : {
+      "Capital" : "Bangkok",
+      "Continent" : "AS",
+      "ISO3166_1_Alpha_2" : "TH",
+      "ISO4217_currency_alphabetic_code" : "THB",
+      "ISO4217_currency_country_name" : "THAILAND",
+      "ISO4217_currency_name" : "Baht",
+      "ISO4217_currency_symbol" : "‎฿",
+      "Languages" : "th,en",
+      "cities" : [ "Bangkok", "Phuket" ],
+      "name" : "Thailand",
+      "official_name_en" : "Thailand"
+    },
+    "United Kingdom" : {
+      "Capital" : "London",
+      "Continent" : "EU",
+      "ISO3166_1_Alpha_2" : "GB",
+      "ISO4217_currency_alphabetic_code" : "GBP",
+      "ISO4217_currency_country_name" : "UNITED KINGDOM",
+      "ISO4217_currency_name" : "Pound Sterling",
+      "ISO4217_currency_symbol" : "£",
+      "Languages" : "en_GB,cy_GB,gd",
+      "cities" : [ "London", "Bristol" ],
+      "name" : "UK",
+      "official_name_en" : "United Kingdom of Great Britain and Northern Ireland"
+    },
+    "United States of America" : {
+      "Capital" : "Washington",
+      "Continent" : "NA",
+      "ISO3166_1_Alpha_2" : "US",
+      "ISO4217_currency_alphabetic_code" : "USD",
+      "ISO4217_currency_country_name" : "UNITED STATES",
+      "ISO4217_currency_name" : "US Dollar",
+      "ISO4217_currency_symbol" : "$",
+      "Languages" : "en_US,es_US,haw,fr",
+      "cities" : [ "Washington", "Philadelphia" ],
+      "name" : "US",
+      "official_name_en" : "United States of America"
+    }
+  }
+}
