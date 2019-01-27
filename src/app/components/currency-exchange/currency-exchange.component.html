@@ -1,0 +1,65 @@
+<div class="container-fluid" *ngIf="currencyRates">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="alert alert-primary" role="alert">
+        Currency Converter
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 offset-md-3">
+      <p>
+        <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample"
+          aria-expanded="false" aria-controls="collapseExample">
+          Data aquired: {{currencyRates != null}}
+        </button>
+      </p>
+      <div class="collapse" id="collapseExample">
+        <div class="card card-body">
+          Date: {{currencyRates.date}}
+          <br>
+          Rates: {{currencyRates.rates | json}}
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 offset-md-3">
+      <!-- Currency -->
+      <div class="form-group">
+        <div class="input-group">
+          <select class="form-control" [(ngModel)]="base">
+            <option value="noValue" disabled selected>Choose</option>
+            <option value="ZAR">SA</option>
+            <option value="GBP">GBP</option>
+            <option value="TZS">Tanzinia</option>
+          </select>
+        </div>
+        <div class="input-group">
+          <input type="text" class="form-control" [(ngModel)]="inputNumber" aria-label="Text input with dropdown button">
+        </div>
+        <div class="input-group">
+          <select class="form-control" [(ngModel)]="dest">
+            <option value="noValue" disabled selected>Choose</option>
+            <option value="ZAR">SA</option>
+            <option value="GBP">GBP</option>
+            <option value="TZS">Tanzinia</option>
+          </select>
+        </div>
+        <div class="input-group">
+          <button type="button" class="btn btn-primary btn-lg btn-block" (click)="convert()">Convert</button>
+        </div>
+      </div>
+
+      <!-- Destinatation -->
+      <div class="form-group">
+        Base Rate ({{base}}):
+        <br>
+        Destination Rate ({{dest}}):
+        <br>
+        <label for="">{{convertedRate}}</label>
+      </div>
+    </div>
+  </div>
+</div>
