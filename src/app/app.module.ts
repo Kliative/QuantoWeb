@@ -1,18 +1,23 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import * as $ from 'jquery';
 import { CoreModule } from '../core/core.module';
 import { HttpClientModule } from '@angular/common/http';
+import { CurrencyExchangeComponent } from './components/currency-exchange/currency-exchange.component';
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    CurrencyExchangeComponent
   ],
   imports: [
     BrowserModule,
+    FormsModule,
     CoreModule,
-    HttpClientModule
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
