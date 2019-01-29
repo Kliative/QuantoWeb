@@ -1,163 +1,464 @@
 [
-{"product_name": "", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Meal, Inexpensive Restaurant", "price": "130.00\\xa0R", "l_range": "80.", "h_range": "180."},
-{"product_name": "Meal for 2 People, Mid-range Restaurant, Three-course", "price": "500.00\\xa0R", "l_range": "360.", "h_range": "600."},
-{"product_name": "McMeal at McDonalds (or Equivalent Combo Meal)", "price": "60.00\\xa0R", "l_range": "50.", "h_range": "70."},
-{"product_name": "Domestic Beer (0.5 liter draught)", "price": "29.00\\xa0R", "l_range": "23.", "h_range": "35."},
-{"product_name": "Imported Beer (0.33 liter bottle)", "price": "33.00\\xa0R", "l_range": "25.", "h_range": "40."},
-{"product_name": "Cappuccino (regular)", "price": "26.02\\xa0R", "l_range": "21.", "h_range": "30."},
-{"product_name": "Coke/Pepsi (0.33 liter bottle)", "price": "13.65\\xa0R", "l_range": "10.", "h_range": "18."},
-{"product_name": "Water (0.33 liter bottle)", "price": "10.00\\xa0R", "l_range": "7.", "h_range": "15."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Milk (regular), (1 liter)", "price": "15.30\\xa0R", "l_range": "11.", "h_range": "23."},
-{"product_name": "", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Meal, Inexpensive Restaurant", "price": "9,000.", "l_range": "4,000.", "h_range": "10,000."},
-{"product_name": "Meal for 2 People, Mid-range Restaurant, Three-course", "price": "65,000.", "l_range": "50,000.", "h_range": "80,000."},
-{"product_name": "McMeal at McDonalds (or Equivalent Combo Meal)", "price": "14,000.", "l_range": "12,000.", "h_range": "20,000."},
-{"product_name": "Domestic Beer (0.5 liter draught)", "price": "2,500.", "l_range": "2,000.", "h_range": "3,500."},
-{"product_name": "Imported Beer (0.33 liter bottle)", "price": "4,000.", "l_range": "3,000.", "h_range": "5,000."},
-{"product_name": "Cappuccino (regular)", "price": "4,277.78", "l_range": "2,000.", "h_range": "5,000."},
-{"product_name": "Coke/Pepsi (0.33 liter bottle)", "price": "1,125.", "l_range": "1,000.", "h_range": "1,500."},
-{"product_name": "Loaf of Fresh White Bread (500g)", "price": "12.49\\xa0R", "l_range": "9.", "h_range": "16."},
-{"product_name": "Rice (white), (1kg)", "price": "20.87\\xa0R", "l_range": "15.", "h_range": "25.95"},
-{"product_name": "Eggs (regular) (12)", "price": "29.50\\xa0R", "l_range": "20.", "h_range": "38."},
-{"product_name": "Local Cheese (1kg)", "price": "99.68\\xa0R", "l_range": "80.", "h_range": "132."},
-{"product_name": "Chicken Breasts (Boneless, Skinless), (1kg)", "price": "73.15\\xa0R", "l_range": "60.", "h_range": "100."},
-{"product_name": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)", "price": "95.50\\xa0R", "l_range": "70.", "h_range": "140."},
-{"product_name": "Apples (1kg)", "price": "20.73\\xa0R", "l_range": "15.", "h_range": "26."},
-{"product_name": "Banana (1kg)", "price": "17.09\\xa0R", "l_range": "12.99", "h_range": "25."},
-{"product_name": "Water (0.33 liter bottle)", "price": "672.73", "l_range": "500.", "h_range": "1,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Milk (regular), (1 liter)", "price": "2,716.67", "l_range": "2,000.", "h_range": "3,850."},
-{"product_name": "Loaf of Fresh White Bread (500g)", "price": "1,242.86", "l_range": "1,000.", "h_range": "2,500."},
-{"product_name": "Rice (white), (1kg)", "price": "2,400.", "l_range": "1,800.", "h_range": "3,600."},
-{"product_name": "Eggs (regular) (12)", "price": "5,160.", "l_range": "3,200.", "h_range": "6,000."},
-{"product_name": "Local Cheese (1kg)", "price": "13,333.33", "l_range": "5,000.", "h_range": "20,000."},
-{"product_name": "Chicken Breasts (Boneless, Skinless), (1kg)", "price": "9,800.", "l_range": "7,000.", "h_range": "15,500."},
-{"product_name": "Oranges (1kg)", "price": "21.69\\xa0R", "l_range": "15.", "h_range": "30."},
-{"product_name": "omato (1kg)", "price": "18.20\\xa0R", "l_range": "14.", "h_range": "25."},
-{"product_name": "Potato (1kg)", "price": "17.00\\xa0R", "l_range": "10.", "h_range": "30."},
-{"product_name": "Onion (1kg)", "price": "17.04\\xa0R", "l_range": "10.", "h_range": "25."},
-{"product_name": "Lettuce (1 head)", "price": "14.96\\xa0R", "l_range": "12.", "h_range": "20."},
-{"product_name": "Water (1.5 liter bottle)", "price": "16.20\\xa0R", "l_range": "12.", "h_range": "20."},
-{"product_name": "Bottle of Wine (Mid-Range)", "price": "65.00\\xa0R", "l_range": "45.", "h_range": "85."},
-{"product_name": "Domestic Beer (0.5 liter bottle)", "price": "17.82\\xa0R", "l_range": "11.84", "h_range": "27."},
-{"product_name": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)", "price": "11,000.", "l_range": "10,000.", "h_range": "14,000."},
-{"product_name": "Apples (1kg)", "price": "5,800.", "l_range": "5,000.", "h_range": "7,000."},
-{"product_name": "Banana (1kg)", "price": "2,100.", "l_range": "1,500.", "h_range": "2,500."},
-{"product_name": "Oranges (1kg)", "price": "3,166.67", "l_range": "1,500.", "h_range": "5,000."},
-{"product_name": "omato (1kg)", "price": "2,400.", "l_range": "2,000.", "h_range": "3,000."},
-{"product_name": "Potato (1kg)", "price": "1,714.29", "l_range": "1,500.", "h_range": "2,000."},
-{"product_name": "Onion (1kg)", "price": "2,200.", "l_range": "2,000.", "h_range": "2,500."},
-{"product_name": "Lettuce (1 head)", "price": "1,000.", "l_range": "500.", "h_range": "1,500."},
-{"product_name": "Imported Beer (0.33 liter bottle)", "price": "26.96\\xa0R", "l_range": "16.", "h_range": "35."},
-{"product_name": "Cigarettes 20 Pack (Marlboro)", "price": "45.00\\xa0R", "l_range": "35.", "h_range": "50."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "One-way Ticket (Local Transport)", "price": "24.50\\xa0R", "l_range": "15.", "h_range": "40."},
-{"product_name": "Monthly Pass (Regular Price)", "price": "675.00\\xa0R", "l_range": "450.", "h_range": "1,000."},
-{"product_name": "i Start (Normal Tariff)", "price": "20.00\\xa0R", "l_range": "12.", "h_range": "25."},
-{"product_name": "i 1km (Normal Tariff)", "price": "13.00\\xa0R", "l_range": "9.6", "h_range": "25."},
-{"product_name": "i 1hour Waiting (Normal Tariff)", "price": "100.00\\xa0R", "l_range": "50.", "h_range": "150."},
-{"product_name": "Gasoline (1 liter)", "price": "16.15\\xa0R", "l_range": "15.", "h_range": "17."},
-{"product_name": "Water (1.5 liter bottle)", "price": "1,916.67", "l_range": "800.", "h_range": "3,000."},
-{"product_name": "Bottle of Wine (Mid-Range)", "price": "13,500.", "l_range": "12,000.", "h_range": "25,000."},
-{"product_name": "Domestic Beer (0.5 liter bottle)", "price": "2,375.", "l_range": "2,000.", "h_range": "2,500."},
-{"product_name": "Imported Beer (0.33 liter bottle)", "price": "3,440.", "l_range": "3,000.", "h_range": "4,000."},
-{"product_name": "Cigarettes 20 Pack (Marlboro)", "price": "3,000.", "l_range": "2,500.", "h_range": "3,700."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "One-way Ticket (Local Transport)", "price": "400.", "l_range": "400.", "h_range": "500."},
-{"product_name": "Monthly Pass (Regular Price)", "price": "35,000.", "l_range": "10,000.", "h_range": "60,000."},
-{"product_name": "i Start (Normal Tariff)", "price": "5,000.", "l_range": "4,000.", "h_range": "5,000."},
-{"product_name": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)", "price": "300,000.00\\xa0R", "l_range": "230,000.", "h_range": "350,000."},
-{"product_name": "oyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)", "price": "285,135.09\\xa0R", "l_range": "237,300.", "h_range": "320,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment", "price": "1,362.18\\xa0R", "l_range": "800.", "h_range": "2,318.18"},
-{"product_name": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)", "price": "1.65\\xa0R", "l_range": ".9", "h_range": "3."},
-{"product_name": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)", "price": "953.11\\xa0R", "l_range": "699.", "h_range": "1,500."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Fitness Club, Monthly Fee for 1 Adult", "price": "479.69\\xa0R", "l_range": "250.", "h_range": "760."},
-{"product_name": "ennis Court Rent (1 Hour on Weekend)", "price": "142.18\\xa0R", "l_range": "50.", "h_range": "250."},
-{"product_name": "i 1km (Normal Tariff)", "price": "3,000.", "l_range": "2,000.", "h_range": "5,000."},
-{"product_name": "i 1hour Waiting (Normal Tariff)", "price": "7,000.", "l_range": "5,000.", "h_range": "9,000."},
-{"product_name": "Gasoline (1 liter)", "price": "2,216.18", "l_range": "2,100.", "h_range": "2,384."},
-{"product_name": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)", "price": "35,000,000.", "l_range": "", "h_range": ""},
-{"product_name": "oyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)", "price": "18,332,285.97", "l_range": "10,000,000.", "h_range": "28,000,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment", "price": "223,891.41", "l_range": "120,000.", "h_range": "500,000."},
-{"product_name": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)", "price": "325.", "l_range": "200.", "h_range": "500."},
-{"product_name": "Cinema, International Release, 1 Seat", "price": "80.00\\xa0R", "l_range": "70.", "h_range": "100."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child", "price": "3,424.01\\xa0R", "l_range": "1,600.", "h_range": "5,000."},
-{"product_name": "International Primary School, Yearly for 1 Child", "price": "65,068.09\\xa0R", "l_range": "28,000.", "h_range": "96,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "1 Pair of Jeans (Levis 501 Or Similar)", "price": "753.06\\xa0R", "l_range": "550.", "h_range": "1,000."},
-{"product_name": "1 Summer Dress in a Chain Store (Zara, H&M, ...)", "price": "489.95\\xa0R", "l_range": "300.", "h_range": "800."},
-{"product_name": "1 Pair of Nike Running Shoes (Mid-Range)", "price": "1,219.00\\xa0R", "l_range": "800.", "h_range": "1,700."},
-{"product_name": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)", "price": "137,494.76", "l_range": "70,000.", "h_range": "250,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Fitness Club, Monthly Fee for 1 Adult", "price": "171,495.29", "l_range": "100,000.", "h_range": "344,952.87"},
-{"product_name": "ennis Court Rent (1 Hour on Weekend)", "price": "44,198.74", "l_range": "35,000.", "h_range": "50,000."},
-{"product_name": "Cinema, International Release, 1 Seat", "price": "12,000.", "l_range": "10,000.", "h_range": "15,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child", "price": "1,279,504.78", "l_range": "500,000.", "h_range": "2,299,685.79"},
-{"product_name": "1 Pair of Men Leather Business Shoes", "price": "1,195.40\\xa0R", "l_range": "800.", "h_range": "2,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Apartment (1 bedroom) in City Centre", "price": "6,160.62\\xa0R", "l_range": "3,900.", "h_range": "9,000."},
-{"product_name": "Apartment (1 bedroom) Outside of Centre", "price": "5,364.62\\xa0R", "l_range": "3,700.", "h_range": "7,500."},
-{"product_name": "Apartment (3 bedrooms) in City Centre", "price": "12,830.36\\xa0R", "l_range": "7,000.", "h_range": "25,000."},
-{"product_name": "Apartment (3 bedrooms) Outside of Centre", "price": "11,025.81\\xa0R", "l_range": "7,500.", "h_range": "15,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "International Primary School, Yearly for 1 Child", "price": "32,727,081.05", "l_range": "10,215,000.", "h_range": "60,750,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "1 Pair of Jeans (Levis 501 Or Similar)", "price": "71,426.33", "l_range": "30,000.", "h_range": "175,000."},
-{"product_name": "1 Summer Dress in a Chain Store (Zara, H&M, ...)", "price": "73,664.57", "l_range": "35,000.", "h_range": "100,000."},
-{"product_name": "1 Pair of Nike Running Shoes (Mid-Range)", "price": "86,000.", "l_range": "50,000.", "h_range": "125,000."},
-{"product_name": "1 Pair of Men Leather Business Shoes", "price": "136,000.", "l_range": "75,000.", "h_range": "200,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Price per Square Meter to Buy Apartment in City Centre", "price": "14,899.04\\xa0R", "l_range": "8,000.", "h_range": "30,000."},
-{"product_name": "Price per Square Meter to Buy Apartment Outside of Centre", "price": "10,475.75\\xa0R", "l_range": "7,250.", "h_range": "12,000."},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Average Monthly Net Salary (After Tax)", "price": "17,983.23\\xa0R", "l_range": "", "h_range": ""},
-{"product_name": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate", "price": "10.51", "l_range": "9.5", "h_range": "12."},
-{"product_name": "", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "URL:", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Description:", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Apartment (1 bedroom) in City Centre", "price": "998,542.25", "l_range": "450,000.", "h_range": "2,259,200."},
-{"product_name": "Apartment (1 bedroom) Outside of Centre", "price": "882,646.13", "l_range": "500,000.", "h_range": "1,600,000."},
-{"product_name": "Apartment (3 bedrooms) in City Centre", "price": "2,995,646.96", "l_range": "2,000,000.", "h_range": "4,000,000."},
-{"product_name": "Apartment (3 bedrooms) Outside of Centre", "price": "2,378,298.42", "l_range": "1,462,500.", "h_range": "3,449,528.69"},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Price per Square Meter to Buy Apartment in City Centre", "price": "2,000,000.", "l_range": "", "h_range": ""},
-{"product_name": "Price per Square Meter to Buy Apartment Outside of Centre", "price": "1,800,000.", "l_range": "", "h_range": ""},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "ign up for our newsletter:", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Your email address:", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "12.15 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "14.70 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "21.96 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "24.25 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "30.86 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "32.22 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Average Monthly Net Salary (After Tax)", "price": "825,000.", "l_range": "", "h_range": ""},
-{"product_name": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate", "price": "19.94", "l_range": "17.83", "h_range": "21."},
-{"product_name": "", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "URL:", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Description:", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "ign up for our newsletter:", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "Your email address:", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "None", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "68.43 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "192.87 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "45.33 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "48.89 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "56.03 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "58.02 km", "price": "", "l_range": "", "h_range": ""},
-{"product_name": "383.25 km", "price": "", "l_range": "", "h_range": ""}
+    {
+        "product_name": "",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Meal, Inexpensive Restaurant",
+        "price": "9,000.",
+        "l_range": "4,000.",
+        "h_range": "10,000."
+    },
+    {
+        "product_name": "Meal for 2 People, Mid-range Restaurant, Three-course",
+        "price": "65,000.",
+        "l_range": "50,000.",
+        "h_range": "80,000."
+    },
+    {
+        "product_name": "McMeal at McDonalds (or Equivalent Combo Meal)",
+        "price": "14,000.",
+        "l_range": "12,000.",
+        "h_range": "20,000."
+    },
+    {
+        "product_name": "Domestic Beer (0.5 liter draught)",
+        "price": "2,500.",
+        "l_range": "2,000.",
+        "h_range": "3,500."
+    },
+    {
+        "product_name": "Imported Beer (0.33 liter bottle)",
+        "price": "4,000.",
+        "l_range": "3,000.",
+        "h_range": "5,000."
+    },
+    {
+        "product_name": "Cappuccino (regular)",
+        "price": "4,277.78",
+        "l_range": "2,000.",
+        "h_range": "5,000."
+    },
+    {
+        "product_name": "Coke/Pepsi (0.33 liter bottle)",
+        "price": "1,125.",
+        "l_range": "1,000.",
+        "h_range": "1,500."
+    },
+    {
+        "product_name": "Water (0.33 liter bottle)",
+        "price": "672.73",
+        "l_range": "500.",
+        "h_range": "1,000."
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Milk (regular), (1 liter)",
+        "price": "2,716.67",
+        "l_range": "2,000.",
+        "h_range": "3,850."
+    },
+    {
+        "product_name": "Loaf of Fresh White Bread (500g)",
+        "price": "1,242.86",
+        "l_range": "1,000.",
+        "h_range": "2,500."
+    },
+    {
+        "product_name": "Rice (white), (1kg)",
+        "price": "2,400.",
+        "l_range": "1,800.",
+        "h_range": "3,600."
+    },
+    {
+        "product_name": "Eggs (regular) (12)",
+        "price": "5,160.",
+        "l_range": "3,200.",
+        "h_range": "6,000."
+    },
+    {
+        "product_name": "Local Cheese (1kg)",
+        "price": "13,333.33",
+        "l_range": "5,000.",
+        "h_range": "20,000."
+    },
+    {
+        "product_name": "Chicken Breasts (Boneless, Skinless), (1kg)",
+        "price": "9,800.",
+        "l_range": "7,000.",
+        "h_range": "15,500."
+    },
+    {
+        "product_name": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)",
+        "price": "11,000.",
+        "l_range": "10,000.",
+        "h_range": "14,000."
+    },
+    {
+        "product_name": "Apples (1kg)",
+        "price": "5,800.",
+        "l_range": "5,000.",
+        "h_range": "7,000."
+    },
+    {
+        "product_name": "Banana (1kg)",
+        "price": "2,100.",
+        "l_range": "1,500.",
+        "h_range": "2,500."
+    },
+    {
+        "product_name": "Oranges (1kg)",
+        "price": "3,166.67",
+        "l_range": "1,500.",
+        "h_range": "5,000."
+    },
+    {
+        "product_name": "omato (1kg)",
+        "price": "2,400.",
+        "l_range": "2,000.",
+        "h_range": "3,000."
+    },
+    {
+        "product_name": "Potato (1kg)",
+        "price": "1,714.29",
+        "l_range": "1,500.",
+        "h_range": "2,000."
+    },
+    {
+        "product_name": "Onion (1kg)",
+        "price": "2,200.",
+        "l_range": "2,000.",
+        "h_range": "2,500."
+    },
+    {
+        "product_name": "Lettuce (1 head)",
+        "price": "1,000.",
+        "l_range": "500.",
+        "h_range": "1,500."
+    },
+    {
+        "product_name": "Water (1.5 liter bottle)",
+        "price": "1,916.67",
+        "l_range": "800.",
+        "h_range": "3,000."
+    },
+    {
+        "product_name": "Bottle of Wine (Mid-Range)",
+        "price": "13,500.",
+        "l_range": "12,000.",
+        "h_range": "25,000."
+    },
+    {
+        "product_name": "Domestic Beer (0.5 liter bottle)",
+        "price": "2,375.",
+        "l_range": "2,000.",
+        "h_range": "2,500."
+    },
+    {
+        "product_name": "Imported Beer (0.33 liter bottle)",
+        "price": "3,440.",
+        "l_range": "3,000.",
+        "h_range": "4,000."
+    },
+    {
+        "product_name": "Cigarettes 20 Pack (Marlboro)",
+        "price": "3,000.",
+        "l_range": "2,500.",
+        "h_range": "3,700."
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "One-way Ticket (Local Transport)",
+        "price": "400.",
+        "l_range": "400.",
+        "h_range": "500."
+    },
+    {
+        "product_name": "Monthly Pass (Regular Price)",
+        "price": "35,000.",
+        "l_range": "10,000.",
+        "h_range": "60,000."
+    },
+    {
+        "product_name": "i Start (Normal Tariff)",
+        "price": "5,000.",
+        "l_range": "4,000.",
+        "h_range": "5,000."
+    },
+    {
+        "product_name": "i 1km (Normal Tariff)",
+        "price": "3,000.",
+        "l_range": "2,000.",
+        "h_range": "5,000."
+    },
+    {
+        "product_name": "i 1hour Waiting (Normal Tariff)",
+        "price": "7,000.",
+        "l_range": "5,000.",
+        "h_range": "9,000."
+    },
+    {
+        "product_name": "Gasoline (1 liter)",
+        "price": "2,216.18",
+        "l_range": "2,100.",
+        "h_range": "2,384."
+    },
+    {
+        "product_name": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+        "price": "35,000,000.",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "oyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+        "price": "18,332,285.97",
+        "l_range": "10,000,000.",
+        "h_range": "28,000,000."
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",
+        "price": "223,891.41",
+        "l_range": "120,000.",
+        "h_range": "500,000."
+    },
+    {
+        "product_name": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+        "price": "325.",
+        "l_range": "200.",
+        "h_range": "500."
+    },
+    {
+        "product_name": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+        "price": "137,494.76",
+        "l_range": "70,000.",
+        "h_range": "250,000."
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Fitness Club, Monthly Fee for 1 Adult",
+        "price": "171,495.29",
+        "l_range": "100,000.",
+        "h_range": "344,952.87"
+    },
+    {
+        "product_name": "ennis Court Rent (1 Hour on Weekend)",
+        "price": "44,198.74",
+        "l_range": "35,000.",
+        "h_range": "50,000."
+    },
+    {
+        "product_name": "Cinema, International Release, 1 Seat",
+        "price": "12,000.",
+        "l_range": "10,000.",
+        "h_range": "15,000."
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+        "price": "1,279,504.78",
+        "l_range": "500,000.",
+        "h_range": "2,299,685.79"
+    },
+    {
+        "product_name": "International Primary School, Yearly for 1 Child",
+        "price": "32,727,081.05",
+        "l_range": "10,215,000.",
+        "h_range": "60,750,000."
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "1 Pair of Jeans (Levis 501 Or Similar)",
+        "price": "71,426.33",
+        "l_range": "30,000.",
+        "h_range": "175,000."
+    },
+    {
+        "product_name": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+        "price": "73,664.57",
+        "l_range": "35,000.",
+        "h_range": "100,000."
+    },
+    {
+        "product_name": "1 Pair of Nike Running Shoes (Mid-Range)",
+        "price": "86,000.",
+        "l_range": "50,000.",
+        "h_range": "125,000."
+    },
+    {
+        "product_name": "1 Pair of Men Leather Business Shoes",
+        "price": "136,000.",
+        "l_range": "75,000.",
+        "h_range": "200,000."
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Apartment (1 bedroom) in City Centre",
+        "price": "998,542.25",
+        "l_range": "450,000.",
+        "h_range": "2,259,200."
+    },
+    {
+        "product_name": "Apartment (1 bedroom) Outside of Centre",
+        "price": "882,646.13",
+        "l_range": "500,000.",
+        "h_range": "1,600,000."
+    },
+    {
+        "product_name": "Apartment (3 bedrooms) in City Centre",
+        "price": "2,995,646.96",
+        "l_range": "2,000,000.",
+        "h_range": "4,000,000."
+    },
+    {
+        "product_name": "Apartment (3 bedrooms) Outside of Centre",
+        "price": "2,378,298.42",
+        "l_range": "1,462,500.",
+        "h_range": "3,449,528.69"
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Price per Square Meter to Buy Apartment in City Centre",
+        "price": "2,000,000.",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Price per Square Meter to Buy Apartment Outside of Centre",
+        "price": "1,800,000.",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Average Monthly Net Salary (After Tax)",
+        "price": "825,000.",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+        "price": "19.94",
+        "l_range": "17.83",
+        "h_range": "21."
+    },
+    {
+        "product_name": "",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "URL:",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Description:",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "ign up for our newsletter:",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "Your email address:",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "None",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "68.43 km",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "192.87 km",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    },
+    {
+        "product_name": "383.25 km",
+        "price": "",
+        "l_range": "",
+        "h_range": ""
+    }
 ]
