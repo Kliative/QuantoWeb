@@ -7,6 +7,7 @@ import * as $ from 'jquery';
 import { CoreModule } from '../core/core.module';
 import { HttpClientModule } from '@angular/common/http';
 import { CurrencyExchangeComponent } from './components/currency-exchange/currency-exchange.component';
+import { SharedModule } from 'src/shared/shared.module';
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import { CurrencyExchangeComponent } from './components/currency-exchange/curren
     FormsModule,
     CoreModule,
     HttpClientModule,
+    SharedModule
   ],
   providers: [],
   bootstrap: [AppComponent]

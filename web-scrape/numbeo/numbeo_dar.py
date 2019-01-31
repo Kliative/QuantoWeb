@@ -13,10 +13,11 @@ class NumbeoSpider(scrapy.Spider):
 
             product_name = prodPrice.css('td::text').extract_first()
             price = prodPrice.css('td.priceValue::text').extract()
-           
+            stripedPrice = str(price).strip("[]'\\n").strip('\\xa0TSh').strip()
+            floatifiedPrice = stripedPrice.replace(',','')
             item = {
                 'product_name': str(product_name).strip("[]'\\n").strip('\\xa0TSh').strip(),
-                'price': str(price).strip("[]'\\n").strip('\\xa0TSh').strip()
+                'price': floatifiedPrice
             }
 
             yield item

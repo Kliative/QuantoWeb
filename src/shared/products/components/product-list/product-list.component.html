@@ -1,0 +1,70 @@
+<div class="container-fluid" *ngIf="productList">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="alert alert-primary" role="alert">
+        <h1>
+          Tanzania <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/800px-Flag_of_Tanzania.svg.png"
+            alt="Flag_of_Tanzania" class="mr-2" width="20px">
+        </h1>
+        <label for="">Product Price List</label>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 offset-md-3">
+      <p>
+        <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseProduct"
+          aria-expanded="false" aria-controls="collapseProduct">
+          Product Data aquired: {{productList != null}}
+        </button>
+      </p>
+      <div class="collapse" id="collapseProduct">
+        <div class="card card-body">
+          Data: {{productList | json}}
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 offset-md-3">
+      <div class="form-group">
+        <div class="input-group">
+          <select class="form-control" #exrate [(ngModel)]="base" (change)="convertOnSelect()">
+            <option value="noValue" disabled selected>Choose</option>
+            <option value="ZAR">SA</option>
+            <option value="GBP">GBP</option>
+            <option value="TZS">Tanzinia</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-10 offset-md-1">
+      <!-- Currency -->
+      <table class="table table-striped" *ngIf="currencyRates">
+        <thead>
+          <tr>
+            <!-- <th scope="col">#</th> -->
+            <th scope="col">Product</th>
+            <th scope="col">Price</th>
+            <th scope="col">Price in Your Currency</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let products of productList; index as i">
+            <!-- <th scope="row">{{ i + 1 }}</th> -->
+            <td>
+              {{ products.product_name }}
+            </td>
+            <td>TZS {{ convertToNumber(products.price) | number }}</td>
+            <td #price>R {{ convertToUserCurrency(products.price, 'ZAR') | number }}</td>
+
+          </tr>
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+</div>
